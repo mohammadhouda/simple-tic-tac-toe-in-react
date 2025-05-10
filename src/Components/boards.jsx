@@ -132,7 +132,7 @@ function Board() {
             setIsPlayerTurn(playerIsX);
           }}
         >
-          Reset Game
+          Reset Game.
         </button>
       )}
     </div>
